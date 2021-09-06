@@ -1,0 +1,30 @@
+import time
+ans = input ("Choose an operation. mult sub add div:")
+if ans == "add":
+    LU = input ("Number one:")
+    number = input ("Number two:")
+    req = int(LU) + int(number)
+    print (req)
+    time.sleep (0.5)
+    print ("Copyright Abhinav Elimineti")
+if ans == "sub":
+    fdf = input ("Number one:")
+    fifi = input ("Number two:")
+    lala = int(fdf) - int(fifi)
+    print (lala)
+    time.sleep (0.5)
+    print ("Copyright Abhinav Elimineti")
+if ans == "mult":
+    yaya = input ("Number one:")
+    nitro = input ("Number two:")
+    pee = int(nitro) * int(yaya)
+    print (pee)
+    time.sleep (0.5)
+    print ("Copyright Abhinav Elimineti")
+if ans == "div":
+    Abhinav = input ("Number one:")
+    Abhinavlo = input ("Number two:")
+    nini = int(Abhinav) / int (Abhinavlo)
+    print (nini)
+    time.sleep (0.5)
+    print ("Copyright Abhinav Elimineti")
