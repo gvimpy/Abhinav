@@ -1,5 +1,8 @@
 import turtle
-Abhinav = turtle.Turtle()
-Abhinav.color ("red")
-Abhinav.shape(arrow)
-Abhinav.right(100)
+No = turtle.Turtle()
+No.color("pink")
+No.shape("arrow")
+No.speed(1000)
+No.left (100)
+No.forward (100)
+ 
